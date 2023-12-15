@@ -1,0 +1,1 @@
+This sorts various categories of items (Animals, fish, fruits, etc...) and processes queries. This implements a Binary Search tree of categories and then uses a Binary search tree of items for the category.
